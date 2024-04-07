@@ -106293,7 +106293,7 @@ aO(){this.b0()
 this.f=Date.now()},
 D(a){var s,r,q,p,o=this,n=null,m=A.aC("Ny Registering\n"+o.a.c.c,n,n,n,n,n,B.bN,n,n),l=t.l,k=A.au(a,n,l).w,j=A.au(a,n,l).w,i=A.au(a,n,l).w,h=t.p
 l=A.cX(A.a([A.bK(n,new A.BD(o.e,o.f,o.r,o.gayH(),n),B.j,n,B.p6,n,n,n,n,n,n,n,i.a.a/3),A.bK(n,new A.CJ(o.w,n),B.j,n,B.p6,n,n,n,n,n,n,n,A.au(a,n,l).w.a.a/3)],h),B.w,B.e3,B.z,n)
-i=A.bK(n,A.jt(!1,o.x,A.kL(a,"Kommentar","").ar2(B.it),n,!1,n,n,n,n,10,10,n,n,n,n,n,!1,n,n,B.al,n,n),B.j,n,B.p7,n,n,n,n,n,n,n,n)
+i=A.bK(n,A.jt(!1,o.x,A.kL(a,"Kommentar","").ar2(B.it),n,!1,n,n,n,n,8,8,n,n,n,n,n,!1,n,n,B.al,n,n),B.j,n,B.p7,n,n,n,n,n,n,n,n)
 s=$.b9
 r=(s==null?$.b9=$.cA():s).dd(0,"[DEFAULT]")
 A.bI(r,$.ct(),!0)
