@@ -2,7 +2,7 @@
     "name": "mca_time_registration_app_soucecode_v2_0",
     "short_name": "mca_time_registration_app_soucecode_v2_0",
     "start_url": ".",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
