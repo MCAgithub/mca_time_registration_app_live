@@ -1,6 +1,6 @@
 {
-    "name": "mca_time_registration_app",
-    "short_name": "mca_time_registration_app",
+    "name": "mca_time_registration_app_soucecode_v2_0",
+    "short_name": "mca_time_registration_app_soucecode_v2_0",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
